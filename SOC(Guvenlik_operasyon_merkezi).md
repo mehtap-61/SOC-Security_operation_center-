@@ -8,7 +8,7 @@ SOC, güvenlik uzmanlarından oluşan bir ekip tarafından yönetilir.
 
 Ayrıca çeşitli teknolojik araçlar (SIEM, IDS/IPS, Fİrewall, Antivirüs yazılımları) kullanarak sürekli olarak sistemleri, ağları ve verileri gözetlemektedir.
 
-SIEM ile sistem üzerindeki log kayıtlarını toplar ve analiz edilme sürecine girer.
+SIEM ile sistem üzerindeki log kayıtlarını toplanır ve analiz edilme sürecine girilmektedir.
 
 IDS ile izinsiz giriş tespit yapılır ancak tehditi önlemez iken IPS ise izinsiz girişi önleme sistemidir.
 
